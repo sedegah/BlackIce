@@ -1,0 +1,9 @@
+{
+  "window_id": 1,
+  "pps": 12000,
+  "bps": 7200000,
+  "src_ip_entropy": 2.7,
+  "dst_port_entropy": 2.1,
+  "syn_ack_ratio": 1.2,
+  "flow_churn": 0.11
+}
