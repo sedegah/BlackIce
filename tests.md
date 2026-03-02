@@ -1,4 +1,4 @@
-# 🧊 BlackIce Test Plan (Go + Python)
+#  BlackIce Test Plan (Go + Python)
 
 | Test ID | Layer | Scenario / Input | Expected Behavior | Metrics / Checks | Notes |
 |---|---|---|---|---|---|
