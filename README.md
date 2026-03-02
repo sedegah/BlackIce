@@ -48,26 +48,3 @@ blackice/
 ├── configs
 └── benchmarks
 ```
-
-## Testing
-
-Run the full local matrix (Go tests, Python tests, and sidecar/runtime smoke):
-
-```bash
-./scripts/run_test_matrix.sh
-```
-
-```powershell
-./scripts/run_test_matrix.ps1
-```
-
-```cmd
-scripts\run_test_matrix.cmd
-```
-
-Test assets live under `tests/`:
-
-- `tests/pcap/` replay fixtures
-- `tests/messages/feature_windows/` canonical feature windows
-- `tests/logs/` generated test artifacts
-
