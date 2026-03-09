@@ -13,7 +13,6 @@ Terminal 1:
 ```bash
 python3 ml/inference/server.py --socket /tmp/blackice.sock
 ```
-
 Terminal 2:
 
 ```bash
